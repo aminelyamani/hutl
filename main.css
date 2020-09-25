@@ -1,0 +1,153 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat", Verdana;
+}
+.cabeza{
+  height: 100px;
+  background: #338AEC;
+  padding: 0 20px;
+  color: #fff;
+  text-decoration: none;
+
+}
+
+.logo{
+	align-content: left;
+	padding-top: 35px;
+	text-transform: uppercase;
+}
+
+.menu{
+  float: right;
+  margin-right: 50px;
+  line-height: -10px;
+  word-spacing: 10px;
+}
+.menu a{
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: 0.4s;
+  
+  }
+
+
+.titulo{
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    line-height: 1.8em;
+}
+
+  .primario{
+  	margin-right: 200px;
+  	margin-left: 200px;
+  	margin-top: 40px;
+    margin-bottom: 100px;
+  	line-height: 1.8em;
+  }
+
+  .articulo{
+  	text-align: center;
+  	text-shadow: 50px;
+  	margin-top: 40px;
+  }
+
+  .articulo1{
+  	margin-right: 200px;
+  	margin-left: 200px;
+  	margin-top: 40px;
+  	margin-bottom: 40px;
+  	line-height: 1.8em;
+  }
+
+  .articulo2{
+  	margin-right: 200px;
+  	margin-left: 200px;
+  	margin-top: 40px;
+  	margin-bottom: 40px;
+  	line-height: 1.8em;
+  }
+  .articulo3{
+  	margin-right: 200px;
+  	margin-left: 200px;
+  	margin-top: 40px;
+  	margin-bottom: 40px;
+  	line-height: 1.8em;
+  }
+  .articulo4{
+  	margin-right: 200px;
+  	margin-left: 200px;
+  	margin-top: 40px;
+  	margin-bottom: 40px;
+  	line-height: 1.8em;
+  }
+  .articulo5{
+  	margin-right: 200px;
+  	margin-left: 200px;
+  	margin-top: 40px;
+  	margin-bottom: 40px;
+  	line-height: 1.8em;
+  }
+
+  img{
+	display:block;
+	margin:auto;
+}
+.social li{
+	display: inline-block;
+	justify-content: center;
+    margin: 2px 10px;
+    text-align: center;
+    margin-top: 20px;
+
+  
+}
+
+footer{
+	text-align: center;
+	margin-top: 40px;
+	text-decoration: none;
+
+}
+
+.box{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.box textarea{
+
+   	   	display: block;
+   	   	border: 0;
+   	   	margin: 20px auto;
+   	   	padding: 10px 14px;
+   	   	background: white;
+   	   	color: black;
+   	   	outline: none;
+   	   	transition: 1s;
+   	   	font-family: Verdana;
+   	   	border-bottom: solid #338AEC 2px ;
+   	   	width: 400px;
+   	   	height: 200px;
+
+   	   	}
+
+.box input[type = "email"]{
+
+		display: block;
+   	   	text-align: center;
+   	   	border: 0;
+   	   	margin: 20px auto;
+   	   	padding: 10px 14px;
+   	   	background: white;
+   	   	color: black;
+   	   	outline: none;
+   	   	transition: 1s;
+   	   	font-family: Verdana;
+   	   	border-bottom: solid #338AEC 2px ;
+   	   	width: 200px;
+   	   	height: 50px;
+}
